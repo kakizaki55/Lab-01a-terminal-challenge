@@ -6,7 +6,7 @@
 
 ## Setup
 
-If you don't have a `~/alchemy` directory, go make one!
+**If you don't have a `~/alchemy` directory, go make one!**_
 
 ## Step by Step Instructions
 
